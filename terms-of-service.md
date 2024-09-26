@@ -158,6 +158,7 @@ ECAD Infra may use information submitted through our Services in accordance with
 ### b. ECAD Infra Copyright Policy
 If you think somebody is violating your copyrights through or on ECAD Infra products or services and want to notify us, you can find contact information at [www.ecadinfra.com](https://www.ecadinfra.com).
 
+---
 
 _Last modified: September 26, 2024_
 
