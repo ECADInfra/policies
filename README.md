@@ -5,6 +5,7 @@ Use of any ECAD Infra services constitutes your agreement to be bound by the fol
 
 - [Terms of Service](terms-of-service.md)
 - [API Terms](api-terms.md)
+- [Validator Terms](validator-terms.md)
 - [Acceptable Use Policy](acceptable-use-policy.md)
 - [Privacy Policy](privacy-policy.md)
 
