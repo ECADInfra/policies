@@ -38,7 +38,7 @@ This Code of Conduct applies within all community spaces, and also applies when 
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement by email at [abuse@ecadinfra.com] mailto:abuse@ecadinfra.com) or by contacting administrators and moderators in official community channels.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement by email at [support@ecadinfra.com](mailto:support@ecadinfra.com) or by contacting administrators and moderators in official community channels.
 
 All complaints will be reviewed and investigated promptly and fairly.
 

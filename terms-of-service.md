@@ -1,7 +1,7 @@
 Terms of Service
 ===
 
-MyStake Validation Inc. dba ECAD Infra ("**ECAD Infra**") provides services (collectively, the "**Services**") to people around the world (the "**Users**"). All services provided by ECAD Infra to third-parties are included in the definition of Services unless we state otherwise.
+ECAD Infra Inc. ("**ECAD Infra**") provides services (collectively, the "**Services**") to people around the world (the "**Users**"). All services provided by ECAD Infra to third-parties are included in the definition of Services unless we state otherwise.
 
 These Terms of Service (the "**Terms**") govern the relationship between ECAD Infra and its Users. References to "you" and "your" mean you, the User. References to "we", "us", and "our" mean ECAD Infra.
 
@@ -28,7 +28,7 @@ If you are using the Services on behalf of an entity, you represent and warrant 
 
 ECAD Infra may provide Services through subsidiaries and affiliated legal entities around the world. These Terms will govern your relationship with these companies whether they provide Services on their behalf or on behalf of ECAD Infra.
 
-### d. Registration
+### e. Registration
 **Short version:** *If we require account registration to access Services, you must ensure your registration is accurate.*
 
 To access or continue accessing certain Services, you may be required to provide registration or authorization information (such as identification or contact details). Any registration or authorization information you give to ECAD Infra must always be accurate and up to date, and you will inform us promptly of any changes.
@@ -48,12 +48,12 @@ If you use any APIs, RPC or other blockchain nodes or similar services provided 
 
 If you use any blockchain validation, staking or similar services provided by ECAD Infra, you also agree to be bound by our [Validator Terms of Service](https://www.ecadinfra.com/validatorterms) (the "**Validator Terms**"). The Validator Terms will supersede these Terms to the extent that a conflict arises in their respective application or interpretation.
 
-### c. Additional Terms for Specific Services
+### d. Additional Terms for Specific Services
 **Short version:** *We may publish additional terms for specific Services.*
 
 ECAD Infra may periodically publish additional terms applicable to specific services. Your use of such services will be subject to these Terms and all additional terms published by ECAD Infra.
 
-### d. Other Agreements
+### e. Other Agreements
 **Short version:** *If we enter into a separate written contract, this will supersede these terms.*
 
 If you have a separate written agreement with us, that agreement will supersede these Terms to the extent that any conflict arises in their respective application or interpretation.
@@ -160,7 +160,7 @@ If you think somebody is violating your copyrights through or on ECAD Infra prod
 
 ---
 
-_Last modified: September 26, 2024_
+_Last modified: January 21, 2026_
 
 ===
 Portions of this page incorporate and modify work created and shared by [Google](https://developers.google.com/terms) and used according to terms described in the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
