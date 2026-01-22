@@ -1,7 +1,7 @@
 Privacy Policy
 ===
 
-This Privacy Policy apply to all Users of Services subject to the MyStake Validation Inc. dba ECAD Infra ("**ECAD Infra**") Terms of Service (the "**Terms**").
+This Privacy Policy applies to all Users of Services subject to the ECAD Infra Inc. ("**ECAD Infra**") Terms of Service (the "**Terms**").
 
 References to "you" and "your" mean you, the individual User. References to "we", "us", and "our" mean ECAD Infra. Capitalized terms used but not defined in this Privacy Policy have the meanings defined in our **Terms of Service**.
 
@@ -45,4 +45,4 @@ If you believe that we possess your personal or personally identifiable informat
 
 ---
 
-_Last modified: September 26, 2024_
+_Last modified: January 21, 2026_

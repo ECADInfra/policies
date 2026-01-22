@@ -3,7 +3,7 @@ Acceptable Use Policy
 
 Capitalized terms used but not defined in this Acceptable Use Policy have the meanings assigned to them in our **Terms of Service** and **Privacy Policy**. 
 
-In this Acceptable Use Policy, "you" and "your" refer to you the customer, and "ECAD Infra", "we", "us", and "our" refer to MyStake Validation Inc. dba ECAD Infra.
+In this Acceptable Use Policy, "you" and "your" refer to you the customer, and "ECAD Infra", "we", "us", and "our" refer to ECAD Infra Inc.
 
 ### 1. Compliance with Laws and Regulations
 You are responsible for using the Service in compliance with all applicable laws, regulations, and our Acceptable Use Policy, made up of the policies provided below. These policies may be amended from time to time.
@@ -61,4 +61,4 @@ You must not engage in activity that significantly harms, or may reasonably be e
 
 ---
 
-_Last modified September 26, 2024_
+_Last modified January 21, 2026_

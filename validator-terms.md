@@ -1,6 +1,6 @@
 Validator Terms of Service
 ===
-MyStake Validation Inc. dba ECAD Infra ("**ECAD Infra**") operates Validator Nodes that allow authorized Users to participate in blockchain validation and related services through non-custodial Staking of Digital Assets in exchange for the opportunity to earn Rewards. 
+ECAD Infra Inc. ("**ECAD Infra**") operates Validator Nodes that allow authorized Users to participate in blockchain validation and related services through non-custodial Staking of Digital Assets in exchange for the opportunity to earn Rewards. 
 
 These Validator Terms of Services (the "**Validator Terms**") and ECAD Infra's general [Terms of Service](https://www.ecadinfra.com/tos) (the "**Terms**") and policies govern your use of the Validation Services. 
 
@@ -9,7 +9,7 @@ Unless defined in the Validator Terms, words and phrases must be interpreted as 
 We may provide concise summaries of specific terms for convenience. Only the full-length below each summary is binding upon you and us.
 
 ## Section 1: Definitions
-**Short version:** *The following words have a defined meaning when capitalized within these Validator Term.*
+**Short version:** *The following words have a defined meaning when capitalized within these Validator Terms.*
 
 The following words are to be interpreted as defined below in these Validator Terms.
 
@@ -41,7 +41,7 @@ The following words are to be interpreted as defined below in these Validator Te
 ### a. Description of Services
 **Short version:** *ECAD Infra operates Validator Nodes that allow authorized Users to participate in blockchain network operations and receive Rewards through non-custodial Staking.*
 
-ECAD Infra Validator Nodes that allow authorized users to participate in blockchain validation and related network services through non-custodia Staking of Digital Assets in exchange for an opportunity earn Rewards ("**Validation Services**"). 
+ECAD Infra Validator Nodes allow authorized users to participate in blockchain validation and related network services through non-custodial Staking of Digital Assets in exchange for an opportunity to earn Rewards ("**Validation Services**"). 
 
 ### b. License to Access Services
 **Short version:** *You must comply with the Validator Terms to lawfully use the Validation Services.*
@@ -59,21 +59,24 @@ You acknowledge and agree that the Supported Blockchains are independently and s
 ECAD Infra may modify, alter or otherwise change the Validation Services from time to time by adding, deleting, or otherwise modifying features or functionality, comply with applicable regulations, rules, laws or for any other reason or purpose. ECAD Infra may at any time, and without advanced notice or compensation discontinue any feature of the Validation Services or any portion thereof at any time, including, without limitation, discontinue to support any Digital Asset or Supported Blockchain. You specifically agree that ECAD Infra are not liable for any loss of value of your Digital Assets or loss of Rewards that may result directly or indirectly from any such changes or any Network Events.
 
 ### e. Voting Rights
+**Short version:** *Where staking or delegation extends governance rights to us, we have sole discretion over how those rights are exercised.*
 
-You grant ECAD Infra the authority to exercise any Supported Blockchain voting rights that may be directly or indirectly associated with your Digital Assets. ECAD Infra may exercise voting rights for its sole, exclusive and absolute benefit.
+Where staking or delegating Digital Assets to Validator Nodes extends any governance or voting rights to ECAD Infra under the applicable Supported Blockchain Protocol, ECAD Infra will have sole authority to determine whether and how to exercise those rights. ECAD Infra is under no obligation to consult with you, follow your instructions, or vote in accordance with your preferences.
 
 ## Section 3: Rewards and Fees
-### a. Non-Custodial User Rewards
-**Short version:** *ECAD Infra only provides Validation Services for blockchains that feature non-custodial Staking and protocol level Reward delivery. We are not responsible for any lost Rewards of any kind, for any reason.*
+### a. Reward Delivery Methods
+**Short version:** *Supported Blockchains may deliver Rewards directly to you or to ECAD Infra depending on the method you use to participate. You are responsible for understanding how Rewards are delivered for your chosen method.*
 
-ECAD Infra only provides Validation Services for Supported Blockchains that feature non-custodial Staking and delivery of Rewards at the protocol level. ECAD Infra does not exercise any direct, indirect or transitory control or possession over your Rewards.
+Supported Blockchains may offer different methods for participating in validation, such as staking or delegation, each with different mechanisms for delivering Rewards. Depending on the Supported Blockchain and your chosen method of participation, Rewards may be delivered by the protocol directly to your Digital Wallet or to ECAD Infra.
 
-Your use of the Validation Services may result in Rewards being issued and transferred to your Digital Wallet by the applicable Supported Blockchain. You agree and acknowledge that: (i) the type, frequency and nature of any Rewards vary depending on the applicable Supported Network; (ii) the transfer of Rewards by the Supported Blockchains is not guaranteed; (iii) any estimates or projections of Rewards, as applicable, are not a guarantee, and we have no ability to control or influence whether or not any Supported Blockchain transfers any Rewards to you or otherwise complies with its own documentation, marketing or programmatic rules; (iv) we will never ask for and you should never provide to us with any form of control or access to your Digital Walley's private key; (v) we are not responsible for any loss, compromise or use of any private key or Digital Wallet, or any lost Rewards or Digital Assets due to any loss, compromise or use of your private key or Digital Wallet.
+You agree and acknowledge that: (i) the method of Reward delivery, type, frequency and nature of any Rewards vary depending on the applicable Supported Blockchain and your method of participation; (ii) the transfer of Rewards by Supported Blockchains is not guaranteed; (iii) any estimates or projections of Rewards are not a guarantee, and we have no ability to control or influence whether or not any Supported Blockchain transfers any Rewards or otherwise complies with its own documentation, marketing or programmatic rules; (iv) we will never ask for and you should never provide any form of control or access to your Digital Wallet's private key; (v) we are not responsible for any loss, compromise or use of any private key or Digital Wallet, or any lost Rewards or Digital Assets due to any loss, compromise or use of your private key or Digital Wallet; and (vi) it is your sole responsibility to understand how Rewards are delivered for your chosen method of participation.
 
-### b. Retention of Rewards Transferred to Us
-**Short version:** *We only support non-custodial Rewards delivered directly to Users by Supported Blockchain protocols. To comply with our regulatory obligations, we retain all Rewards delivered directly to ECAD Infra.*
+### b. Retention of Rewards Delivered to Us
+**Short version:** *We retain all Rewards delivered to us by Supported Blockchain protocols, but we don't want your Rewards. Contact us if you need help choosing a participation method that delivers Rewards directly to you.*
 
-You disclaim, assign and transfer to ECAD Infra any right, title, interest and benefit from Rewards delivered to ECAD Infra by Supported Blockchains that may be directly or indirectly related to any Digital Assets you may own or control. You acknowledge and agree that it is your sole responsibility to ensure you only utilize non-custodial methods to stake or delegate your Digital Assets to the Validator Nodes.
+ECAD Infra does not want to receive Rewards attributable to your Digital Assets. However, some Supported Blockchains and participation methods (such as delegation on the Tezos blockchain) deliver Rewards to Validator Node operators rather than to participants directly. If Rewards attributable to your Digital Assets are delivered to ECAD Infra by a Supported Blockchain, you disclaim, assign and transfer to ECAD Infra any right, title, interest and benefit in those Rewards.
+
+If you wish to receive Rewards directly, it is your responsibility to select a Supported Blockchain and participation method that delivers Rewards directly to your Digital Wallet. If you are unsure which participation method is right for you, or need help ensuring that your Rewards are delivered directly to you, please contact us at support@ecadlabs.com before staking or delegating your Digital Assets.
 
 ### c. Fees
 **Short version:** *You agree to pay a Service Fee in exchange for the Validator Services, and we can change the Service Fee at any time by updating our Validator Node settings.*

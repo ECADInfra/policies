@@ -1,6 +1,6 @@
 API Terms of Service
 ===
-MyStake Validation Inc. dba ECAD Infra ("**ECAD Infra**") provides Users with application programming interfaces and related developer services and websites, including blockchain RPC nodes (collectively, the "**API**" or "**APIs**"). 
+ECAD Infra Inc. ("**ECAD Infra**") provides Users with application programming interfaces and related developer services and websites, including blockchain RPC nodes (collectively, the "**API**" or "**APIs**"). 
 
 These API Terms of Service (the "**API Terms**") and ECAD Infra's general Terms of Service (the "**Terms**") govern your use of the APIs. Unless defined in the API Terms, words and phrases must be interpreted as defined in the Terms, and the API Terms and the Terms must be interpreted consistently with each other.
 
@@ -121,7 +121,7 @@ Upon any termination of the API Terms or discontinuation of your access to an AP
 
 ---
 
-_Last modified: September 26, 2024_
+_Last modified: January 21, 2026_
 
 ===
 Portions of this page incorporate and modify work created and shared by [Google](https://developers.google.com/terms) and used according to terms described in the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
